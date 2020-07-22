@@ -1,2 +1,4 @@
 # hello-world
-first repo
+Hi
+
+This program is for hello world
